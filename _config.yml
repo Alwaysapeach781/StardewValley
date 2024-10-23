@@ -1,3 +1,5 @@
 theme: minima
 title: Fun In Stardew Valley
 author: CJ Loonstra
+header-pages:
+- aboutme.md
